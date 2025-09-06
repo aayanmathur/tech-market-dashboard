@@ -2,7 +2,7 @@
 
 Real-time analysis of 5,466+ tech job postings with interactive visualizations and market insights.
 
-## 🔗 [Live Dashboard](your-streamlit-url-here)
+## 🔗 [Live Dashboard](https://tech-market-dashboard-93bpzsgytbejo6qijcsqhd.streamlit.app)
 
 ## Features
 - Skills demand analysis with 30K+ keywords
